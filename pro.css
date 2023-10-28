@@ -1,0 +1,59 @@
+*{
+    box-sizing: border-box;
+}
+header {
+    background-color: rgb(221, 199, 241);
+    color: rgb(134, 27, 161);
+    text-align: center;
+    padding: 20px;
+    
+}
+header h1{
+    font-style: bold;
+    float: center;
+}
+nav ul{
+    list-style-type: none;
+    text-align: center;
+}
+nav ul li{
+    display: inline;
+    margin-right: 20px;
+}
+nav a{
+    text-decoration: none;
+    color: rgb(26, 1, 41);
+    font-weight: bold;
+}
+section{
+    padding: 20px;
+    margin: 20px;
+    padding-left: 20px;
+    box-sizing: 0px 0px 60px;
+    background-color: rgb(188, 255, 227);
+}
+.c1{
+    font-size: xx-large;
+    font-style: italic;
+    line-height: 50px;
+}
+.c2{
+    font-size: xx-large;
+    font-style: italic;
+    line-height: 50px;
+}
+.c3 form{
+    font-size: xx-large;
+}
+#home{
+    background-color: blanchedalmond;
+}
+#about{
+    background-color: aqua;
+}
+#skill{
+    background-color: rgb(252, 240, 132);
+}
+#contact{
+    background-color: rgb(253, 187, 242);
+}
